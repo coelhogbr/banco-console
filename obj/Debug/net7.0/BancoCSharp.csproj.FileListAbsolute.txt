@@ -1,0 +1,15 @@
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.csproj.AssemblyReference.cache
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.AssemblyInfoInputs.cache
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.AssemblyInfo.cs
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\bielc\Desktop\BancoCSharp\bin\Debug\net7.0\BancoCSharp.exe
+C:\Users\bielc\Desktop\BancoCSharp\bin\Debug\net7.0\BancoCSharp.deps.json
+C:\Users\bielc\Desktop\BancoCSharp\bin\Debug\net7.0\BancoCSharp.runtimeconfig.json
+C:\Users\bielc\Desktop\BancoCSharp\bin\Debug\net7.0\BancoCSharp.dll
+C:\Users\bielc\Desktop\BancoCSharp\bin\Debug\net7.0\BancoCSharp.pdb
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.dll
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\refint\BancoCSharp.dll
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.pdb
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\BancoCSharp.genruntimeconfig.cache
+C:\Users\bielc\Desktop\BancoCSharp\obj\Debug\net7.0\ref\BancoCSharp.dll
